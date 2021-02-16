@@ -1,4 +1,0 @@
-## Expected
-
-![expected](./expected.png)
-
